@@ -83,7 +83,8 @@ class Programmer
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">High Skill:</h4>
-        <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
+        <a href="" target="_blank"><img src="https://github.com/urbanskii/urbanskii/blob/main/telegram.png?raw=true" alt="urbanskii" width="40" height="40" /></a>
+        <!--
         <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
         <a href="https://stackshare.io/rubymine" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rubymine/rubymine-original.svg" alt="java" width="40" height="40" /></a>
         <a href="https://stackshare.io/oracle" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
@@ -92,7 +93,7 @@ class Programmer
         <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
         <a href="https://stackshare.io/php" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
         <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-        <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
+        <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a> -->
         <h4 align="left">Medium Skill:</h4>
         <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
         <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
