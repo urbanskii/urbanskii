@@ -83,7 +83,7 @@ class Programmer
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">High Skill:</h4>
-        <a href="" target="_blank"><img src="https://github.com/urbanskii/urbanskii/blob/main/coffee-loading.png?raw=true" alt="urbanskii" width="40" height="40" /></a>
+        <a href="" target="_blank"><img src="https://github.com/urbanskii/urbanskii/blob/main/coffee-loading.gif?raw=true" alt="urbanskii" width="40" height="40" /></a>
         <!--
         <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
         <a href="https://stackshare.io/rubymine" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rubymine/rubymine-original.svg" alt="java" width="40" height="40" /></a>
