@@ -77,9 +77,9 @@ class Programmer
         </tr>
     </tbody>
 </table>
-
- <img align="right" alt="GIF" src="https://github.com/urbanskii/urbanskii/blob/master/code.gif?raw=true" width="70%" height="400px" />
-
+-->
+ <img align="right" alt="GIF" src="https://github.com/urbanskii/urbanskii/blob/main/code.gif?raw=true" width="70%" height="400px" />
+<!--
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">High Skill:</h4>
