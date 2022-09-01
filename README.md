@@ -109,6 +109,7 @@ class Programmer
         <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
         <!-- <a href="https://stackshare.io/vuejs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a> -->
         <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
         <!-- <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a> -->
     </p>
     
