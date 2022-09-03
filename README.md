@@ -5,7 +5,7 @@ class Programmer
    
        def initialize()
            puts "### Hi there, i'm Marcos Antonio Urbanski 👋"
-           puts "### Olá, eu sou Marcos Antonio Urbanski 👋 "
+           
 
 ```
 
